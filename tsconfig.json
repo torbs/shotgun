@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "declaration": true,
+        "lib": ["dom", "es2015"],
+        "module": "CommonJS",
+        "outDir": "./dist",
+        "strict": false,
+        "target": "ES5",
+        "resolveJsonModule": true
+    },
+    "include": [
+        "./shotgun.ts"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}

@@ -3,17 +3,8 @@
   "version": "1.0.0",
   "description": "Leader election of javascript objects.",
   "main": "index.js",
-  "dependencies": {
-    "@amedia/eslint-config-amedia": "^1.0.6",
-    "eslint": "^3.12.0",
-    "eslint-config-airbnb-base": "^11.0.0",
-    "eslint-plugin-import": "^2.2.0",
-    "tslint": "^5.10.0",
-    "typescript": "^2.9.2"
-  },
   "devDependencies": {
     "tap": "^12.4.0",
-    "tslint": "^5.12.1",
     "typescript": "^3.2.4"
   },
   "scripts": {
